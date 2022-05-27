@@ -1223,6 +1223,7 @@ img{
 
     .footer__logo img{
         width: 80px;
+        margin-left: 2rem;
     }
 
     .footer__description{
@@ -1239,6 +1240,10 @@ img{
         margin-left: 1rem;
     }
 
+    .footer__logo img{
+        margin-left: 1.5rem;
+    }
+
 }
 
 
@@ -1246,6 +1251,10 @@ img{
     .featured__content{
         grid-template-columns: repeat(3, 270px);
         gap: 3rem;
+    }
+
+    .footer__logo img{
+        margin-left: 1.5rem;
     }
 
 }
@@ -1448,10 +1457,11 @@ img{
 
     .footer__logo img{
         width: 100px;
+        margin-left: 1.5rem;
     }
 
     .footer__title{
-        margin-bottom: 1.5rem;
+        margin-bottom: 1.25rem;
     }
 
     .footer__links{
